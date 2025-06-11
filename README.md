@@ -1,6 +1,6 @@
 # Hi, I'm Josh 👋
 
-Senior Data Scientist at Heaven Hill Brands specializing in full-stack data science pipelines and R package development.
+I like to code.
 
 ---
 
