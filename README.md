@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Josh
 
-<!--
-**joshwlivingston/joshwlivingston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Data Scientist at Heaven Hill Brands specializing in full-stack data science pipelines and R package development.
 
-Here are some ideas to get you started:
+## 🛠️ Technical Expertise
+- **R Development**: Author and maintainer of R packages
+- **Machine Learning**: Proficient in tidymodels ecosystem for building robust ML pipelines
+- **Data Science**: Full-stack data science solutions from ETL to deployment
+- **Programming Languages**: R, Python, SQL, Julia, C++
+- **Areas of Focus**: Statistical Modeling, Package Development, Data Pipeline Architecture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Current Work
+- Building robust data science pipelines at Heaven Hill Brands
+- Developing and maintaining R packages
+- Implementing tidymodels-based machine learning solutions
+- Dabbling in lower level languages
+
+## 🌟 Featured Projects
+- **rstuff**: My package for everything R
+- **julia-transformers**: Exploring transformer models implementation in Julia
+- **jx11**: Building a digital synthsizer using the JUCE framework in C++
+- **accelerated-cpp**: C++ programming exercises and implementations
+- **denver-maps**: Geographical data visualization for Denver area
