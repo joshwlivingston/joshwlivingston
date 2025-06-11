@@ -2,8 +2,6 @@
 
 I like to code.
 
----
-
 ## Technical Expertise
 
 * 🛠️ **R Development**: Author and maintainer of R packages
@@ -12,16 +10,12 @@ I like to code.
 * 💻 **Programming Languages**: [R](https://github.com/your-username/rstuff), Python, SQL, [Julia](https://github.com/your-username/julia-transformers), [C++](https://github.com/your-username/jx11)
 * ✨ **Areas of Focus**: Statistical Modeling, Package Development, Data Pipeline Architecture
 
----
-
 ## Current Work
 
 * 🚀 Building robust data science pipelines at Heaven Hill Brands
 * 📦 Developing and maintaining R packages
 * 📈 Implementing tidymodels-based machine learning solutions
 * ⚙️ Dabbling in lower-level languages
-
----
 
 ## Featured Projects
 
