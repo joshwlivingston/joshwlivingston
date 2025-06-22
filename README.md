@@ -1,11 +1,3 @@
-# Josh Livingston 📈
-
-<a href="https://www.linkedin.com/in/joshwlivingston">
-<img align="left" alt="LinkedIn: Josh Livingston" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Linkedin-logo-blue-In-square-40px.png" />
-</a>
-
-</br>
-
 ## Featured Projects 📝
 
 You can find a smattering of personal projects, in various levels of completeness, in my Github repos. Here are some highlights:
