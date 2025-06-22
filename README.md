@@ -1,6 +1,6 @@
 ## Featured Projects 📝
 
-You can find a smattering of personal projects, in various levels of completeness, in my Github repos. Here are some highlights:
+You can find a smattering of personal projects in my Github repos. Here are some highlights:
 
 * **[rstuff](https://github.com/your-username/rstuff)**: My package for everything R
 * **[julia-transformers](https://github.com/your-username/julia-transformers)**: Exploring transformer models implementation in Julia
