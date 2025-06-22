@@ -15,6 +15,6 @@ Most of my work is for a paycheck and not on my personal Github. This is what I 
 * **R Development**: Author and maintainer of R packages
 * **Machine Learning**: Proficient in the tidymodels ecosystem for building robust ML pipelines
 * **Data Science**: Full-stack data science solutions from ETL to deployment
-* **Programming Languages**: [R](https://github.com/your-username/rstuff), Python, SQL, [Julia](https://github.com/your-username/julia-transformers), [C++](https://github.com/your-username/jx11)
+* **Programming Languages**: [R](https://github.com/your-username/rstuff), Python, SQL
 * **Areas of Focus**: Statistical Modeling, Package Development, Data Pipeline Architecture
 
