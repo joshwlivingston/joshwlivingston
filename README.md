@@ -1,3 +1,10 @@
+## Intro 👋
+My name's Josh! As a senior data scientist, I work on full stack data science pipelines. My passions include:
+
+- Learning always
+- Using data well
+- Supporting open source
+
 ## Featured Projects 🚀
 
 You'll find a variety of projects in my Github repos. Here are some highlights:
@@ -17,8 +24,7 @@ You'll find a variety of projects in my Github repos. Here are some highlights:
 
 Most of my work is for a paycheck and not on my personal Github. This is what I generally do:
 
-* **R Development**: Author and maintainer of R packages
-* **Machine Learning**: Proficient in the tidymodels ecosystem for building robust ML pipelines
-* **Data Science**: Full-stack data science solutions from ETL to deployment
+* **R Development**: Author and maintainer of R packages, both proprietary and open source
+* **Data Science**: Full-stack data science solutions from ETL to deployment using R, SQL, Python, Stan, ...
 * **Programming Languages**: [R](https://github.com/joshwlivingston/shinyfilters), Python, SQL
 * **Areas of Focus**: Statistical Modeling, Package Development, Data Pipeline Architecture
