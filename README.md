@@ -10,7 +10,7 @@ My name's Josh! As a senior data scientist, I work on full stack data science pi
 You'll find a variety of projects in my Github repos. Here are some highlights:
 
 ### Open Source 📦
-* **[shinyfilters](https://github.com/joshwlivingston/shinyfilters)**: Create shiny inputs for vectors and data.frames. (CRAN: 0.2.0)
+* **[shinyfilters](https://github.com/joshwlivingston/shinyfilters)**: Create shiny inputs for vectors and data.frames. (CRAN: 0.3.0)
 
 ### Personal Projects 📝
 * **[accelerated-cpp](https://github.com/joshwlivingston/accelerated-cpp)**: C++ programming exercises and implementations
