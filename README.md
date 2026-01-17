@@ -10,10 +10,7 @@ My name's Josh! As a senior data scientist, I work on full stack data science pi
 You'll find a variety of projects in my Github repos. Here are some highlights:
 
 ### Open Source 📦
-* **[shinyfilters](https://github.com/joshwlivingston/shinyfilters)**: Create shiny inputs from vectors data.frames, or any R object. [![CRAN status](https://www.r-pkg.org/badges/version/shinyfilters)](https://CRAN.R-project.org/package=shinyfilters)
-[![Codecov test coverage](https://codecov.io/gh/joshwlivingston/shinyfilters/graph/badge.svg)](https://app.codecov.io/gh/joshwlivingston/shinyfilters)
-[![r-universe status](https://joshwlivingston.r-universe.dev/shinyfilters/badges/version)](https://joshwlivingston.r-universe.dev/shinyfilters)
-[![R-CMD-check](https://github.com/joshwlivingston/shinyfilters/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/joshwlivingston/shinyfilters/actions/workflows/R-CMD-check.yaml)
+* **[shinyfilters](https://github.com/joshwlivingston/shinyfilters)**: Create shiny inputs from vectors data.frames, or any R object [![CRAN status](https://www.r-pkg.org/badges/version/shinyfilters)](https://CRAN.R-project.org/package=shinyfilters)
 
 ### Personal Projects 📝
 * **[accelerated-cpp](https://github.com/joshwlivingston/accelerated-cpp)**: C++ programming exercises and implementations
