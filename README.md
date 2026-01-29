@@ -13,6 +13,7 @@ You'll find a variety of projects in my Github repos. Here are some highlights:
 * **[shinyfilters](https://github.com/joshwlivingston/shinyfilters)**: Create shiny inputs from vectors data.frames, or any R object [![CRAN status](https://www.r-pkg.org/badges/version/shinyfilters)](https://CRAN.R-project.org/package=shinyfilters)
 
 ### Personal Projects 📝
+* **[statistical-rethinking-notes](https://github.com/joshwlivingston/statistical-rethinking-notes)**: Notes and code from McElreath's [*Statistical Rethinking*](https://github.com/rmcelreath/stat_rethinking_2025)
 * **[accelerated-cpp](https://github.com/joshwlivingston/accelerated-cpp)**: C++ programming exercises and implementations
 * **[jx11](https://github.com/joshwlivingston/jx11)**: Building a digital synthesizer using the [JUCE framework](https://juce.com/) in C++
 * **[denver-maps](https://github.com/joshwlivingston/denver-maps)**: Geographical data visualization for the Denver area
