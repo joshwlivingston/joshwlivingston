@@ -13,10 +13,10 @@ You'll find a variety of projects in my Github repos. Here are some highlights:
 * **[shinyfilters](https://github.com/joshwlivingston/shinyfilters)**: Create shiny inputs from vectors data.frames, or any R object [![CRAN status](https://www.r-pkg.org/badges/version/shinyfilters)](https://CRAN.R-project.org/package=shinyfilters)
 
 ### Personal Projects 📝
+* **[r-in-aws](https://github.com/joshwlivingston/r-in-aws)**: Deploying an R package on AWS lambda, comprehensively tested, using Terraform for infra
 * **[statistical-rethinking-notes](https://github.com/joshwlivingston/statistical-rethinking-notes)**: Notes and code from McElreath's [*Statistical Rethinking*](https://github.com/rmcelreath/stat_rethinking_2025)
 * **[accelerated-cpp](https://github.com/joshwlivingston/accelerated-cpp)**: C++ programming exercises and implementations
 * **[jx11](https://github.com/joshwlivingston/jx11)**: Building a digital synthesizer using the [JUCE framework](https://juce.com/) in C++
-* **[denver-maps](https://github.com/joshwlivingston/denver-maps)**: Geographical data visualization for the Denver area
 * **[julia-transformers](https://github.com/joshwlivingston/julia-transformers)**: Exploring transformer models implementation in Julia
 * **[rstuff](https://github.com/joshwlivingston/rstuff)**: My package for everything R
 
